@@ -1,5 +1,6 @@
 # Who am i?
 ![Me](/Images/PersonligBillede.JPG)
+
 ```"Hello World"``` i am a student at Zealand studying to become an AP graduate, meaning computer science graduate.
 
 My name is Lasse and i am 23 years old.
@@ -10,17 +11,12 @@ I started out "programming" in my public school days, where i got to program som
 ### How knowledgeable am i?
 If i myself had to give a guess i would be maybe at this point:
 
-Java: 2%
-
-C#: 3%
-
-VB.net: 4%
-
-HTML: 2.5%
-
-PHP: 1%
-
-Javascript: 2%
+* Java: 2%
+* C#: 3%
+* VB.net: 4%
+* HTML: 2.5%
+* PHP: 1%
+* Javascript: 2%
 
 
 
