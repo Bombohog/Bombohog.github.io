@@ -1,9 +1,6 @@
-# Welcome to the world copy/paste
-
-This is my world of copy/paste where anything is possible.
-
-## Who am i?
-```"Hello World"``` i am a student at Zealand studying to become an AP, meaning computer science.
+### Who am i?
+![Me](/images/ThisIsMe.jpg)
+```"Hello World"``` i am a student at Zealand studying to become an AP graduate, meaning computer science graduate.
 
 My name is Lasse and i am 23 years old.
 I am personally very interested in programming in all differents aspects but most of all in the world of gaming.
