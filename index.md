@@ -1,5 +1,5 @@
 # Who am i?
-![Me](/Images/PersonligBillede.JPG | width=250)
+![Me](/Images/PersonligBillede.JPG)
 
 ```"Hello World"``` i am a student at Zealand studying to become an AP graduate, meaning computer science graduate.
 
