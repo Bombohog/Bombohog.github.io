@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to the world copy/paste
+
+This is my world of copy/paste where anything is possible.
+
+## Who am i?
+Hello i am a student at Zealand studying to become an AP, meaning computer science.
+
+My name is Lasse and i am 23 years old.
+I am personally very interested in programming in all differents aspects but most of all in the world of gaming.
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Bombohog/Bombohog.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
