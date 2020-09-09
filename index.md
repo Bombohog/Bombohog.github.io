@@ -1,5 +1,5 @@
 # Who am i?
-![Me](/Images/PersonligBillede.JPG)
+![Me](/Images/PersonligBillede.JPG)[size: 3]
 
 ```"Hello World"``` i am a student at Zealand studying to become an AP graduate, meaning computer science graduate.
 
@@ -7,6 +7,13 @@ My name is Lasse and i am 23 years old.
 I am personally very interested in programming in all differents aspects but most of all in the world of gaming.
 
 I started out "programming" in my public school days, where i got to program some "games", but i was so interested in games that i wanted to learn more about programming and therefore i went to HTX in EUC Køge where i went on the programming B and Mathatics A course, and from there i ended up here in Zealand where i hope to learn a lot more than i know now.
+
+My Hobbies/interests are:
+* Anime
+* Gaming
+* Programming
+  * Game Programming
+
 
 ### How knowledgeable am i?
 If i myself had to give a guess i would be maybe at this point:
