@@ -3,11 +3,27 @@
 This is my world of copy/paste where anything is possible.
 
 ## Who am i?
-Hello i am a student at Zealand studying to become an AP, meaning computer science.
+```markdown "Hello World"``` i am a student at Zealand studying to become an AP, meaning computer science.
 
 My name is Lasse and i am 23 years old.
 I am personally very interested in programming in all differents aspects but most of all in the world of gaming.
 
+I started out "programming" in my public school days, where i got to programm some games, but i was so interested in games that i wanted to learn more about programming and therefore i went to HTX in EUC Køge where i went on the programming B and Mathatics A course, and from there i ended up here in Zealand where i hope to learn a lot more than i know now.
+
+### How knowledgeable am i
+If i myself had to give a guess i would be maybe at this point:
+
+Java: 2%
+
+C#: 3%
+
+VB.net: 4%
+
+HTML: 2.5%
+
+PHP: 1%
+
+Javascript: 2%
 
 
 
