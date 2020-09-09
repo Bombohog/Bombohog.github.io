@@ -3,7 +3,7 @@
 This is my world of copy/paste where anything is possible.
 
 ## Who am i?
-```markdown "Hello World"``` i am a student at Zealand studying to become an AP, meaning computer science.
+```"Hello World"``` i am a student at Zealand studying to become an AP, meaning computer science.
 
 My name is Lasse and i am 23 years old.
 I am personally very interested in programming in all differents aspects but most of all in the world of gaming.
