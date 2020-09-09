@@ -1,5 +1,5 @@
 # Who am i?
-![Me](/Images/PersonligBillede.jpg)
+![Me](/Images/PersonligBillede.JPG)
 ```"Hello World"``` i am a student at Zealand studying to become an AP graduate, meaning computer science graduate.
 
 My name is Lasse and i am 23 years old.
