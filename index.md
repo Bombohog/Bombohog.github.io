@@ -1,12 +1,3 @@
----
-layout: default
-title: Home
----
-
-This is a [Markdown](http://daringfireball.net/projects/markdown/) file.
-
-{% include matrix.html %}
-
 # Who am i?
 ![Me](/Images/PersonligBillede.JPG)
 
@@ -93,3 +84,5 @@ public class Opg_11 {
     }
 }
 ```
+
+{% include matrix.html %}
