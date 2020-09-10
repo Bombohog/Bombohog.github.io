@@ -23,6 +23,7 @@ If i myself had to give a guess i would probably be at this point:
 ### Code, Projects, Other...
 
 1. Hello World
+
 ```java
 public class Hello {
         // psvm
@@ -36,6 +37,7 @@ public class Hello {
 
 
 2. Exercise 1.3 (From: Introduction to Java Programming and Data Structures)
+
 ```java
 public class Opg_3 {
     public static void main(String[] args) {
@@ -48,7 +50,9 @@ public class Opg_3 {
     }
 }
 ```
+
 ![Image](/Images/JavaCode.JPG)
+
 
 3. Exercise 1.11 (From: Introduction to Java Programming and Data Structures)
 ```java
@@ -80,4 +84,5 @@ public class Opg_11 {
     }
 }
 ```
+
 {% include matrix.html %}
