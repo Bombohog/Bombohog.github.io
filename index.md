@@ -5,7 +5,8 @@
 My name is Lasse and i am 23 years old.
 I am personally very interested in programming in all differents aspects but most of all in the world of gaming.
 I started out "programming" in my public school days, where i got to program some "games", but i was so interested in games that i wanted to learn more about programming and therefore i went to HTX in EUC Køge where i went on the programming B and Mathatics A course, and from there i ended up here in Zealand where i hope to learn a lot more than i know now.
-My Hobbies/interests are:
+
+###### My Hobbies/interests are:
 * Anime
 * Gaming
 * Programming
@@ -22,7 +23,7 @@ If i myself had to give a guess i would probably be at this point:
 
 ### Code, Projects, Other...
 
-1. Hello World
+##### 1. Hello World
 
 ```java
 public class Hello {
@@ -36,7 +37,7 @@ public class Hello {
 ```
 
 
-2. Exercise 1.3 (From: Introduction to Java Programming and Data Structures)
+##### 2. Exercise 1.3 (From: Introduction to Java Programming and Data Structures)
 
 ```java
 public class Opg_3 {
@@ -54,7 +55,8 @@ public class Opg_3 {
 ![Image](/Images/JavaCode.JPG)
 
 
-3. Exercise 1.11 (From: Introduction to Java Programming and Data Structures)
+##### 3. Exercise 1.11 (From: Introduction to Java Programming and Data Structures)
+
 ```java
 public class Opg_11 {
     public static void main(String[] args) {
