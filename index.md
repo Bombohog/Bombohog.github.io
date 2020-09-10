@@ -48,7 +48,7 @@ public class Opg_3 {
     }
 }
 ```
-![Code_Image](/Images/JavaCode.JPG)
+![Image](/Images/JavaCode.JPG)
 
 3. Exercise 1.11 (From: Introduction to Java Programming and Data Structures)
 ```
