@@ -40,8 +40,6 @@ public class Hello {
 
 2. Exercise 1.3 (From: Introduction to Java Programming and Data Structures)
 
-public class Opg_3 {
-
     public static void main(String[] args) {
 
         // fandt inspiration på nettet, men den var lidt irriterende at den bare
@@ -53,13 +51,9 @@ public class Opg_3 {
 
     }
 
-}
-
 ![CodeImage](/Images/JavaCode.JPG)
 
 3. Exercise 1.11 (From: Introduction to Java Programming and Data Structures)
-
-public class Opg_11 {
 
     public static void main(String[] args) {
 
@@ -90,5 +84,3 @@ public class Opg_11 {
         // Dette er ikke perfect, men ved sammenligning af hvad Deniz, så afviger den, 0,1,2,2,3 mennesker.
 
     }
-
-}
