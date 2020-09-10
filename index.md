@@ -1,5 +1,6 @@
 # Who am i?
 ![Me](/Images/PersonligBillede.JPG)
+
 ```"Hello World"``` i am a student at Zealand studying to become an AP graduate, meaning computer science graduate.
 My name is Lasse and i am 23 years old.
 I am personally very interested in programming in all differents aspects but most of all in the world of gaming.
@@ -9,6 +10,7 @@ My Hobbies/interests are:
 * Gaming
 * Programming
   * Game Programming
+
 ### How knowledgeable am i?
 If i myself had to give a guess i would probably be at this point:
 * Java: 2%
@@ -17,7 +19,9 @@ If i myself had to give a guess i would probably be at this point:
 * HTML: 2.5%
 * PHP: 1%
 * Javascript: 2%
+
 ### Code, Projects, Other...
+
 1. Hello World
 ```
 public class Hello {
@@ -45,6 +49,7 @@ public class Opg_3 {
 }
 ```
 ![Code_Image](/Images/JavaCode.JPG)
+
 3. Exercise 1.11 (From: Introduction to Java Programming and Data Structures)
 ```
 public class Opg_11 {
